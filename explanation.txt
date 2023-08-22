@@ -1,0 +1,15 @@
+hi everyone ;)
+
+this is my machine learning project toward predicting the prices of bigmart sales dataset which is gattered in 2013 
+the files u are seeing inclues diffrend methods of data preprocessing and standardization . and also some data visua-
+lization . 
+
+in the comparinng_models.ipynb i didnt use standardization and i just compared 3 diffrent models as linear reg
+Xgboost and random forrest and in the final rand for i chose random forrest as the final model and i used standardization 
+on my data .
+
+
+
+in the vizualization note book we have some analysis toward our dataset and by that information we chose the best visualization 
+items like pie chart on items variety and quantity . 
+
